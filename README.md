@@ -1,4 +1,5 @@
 NAME: CHAITANYA P S
+
 REG NO:212222230024
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
